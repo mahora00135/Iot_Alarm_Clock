@@ -1,5 +1,5 @@
 # Iot_Alarm_Clock
-Microprocessor laboratory - Iot alarm clock
+Microprocessor laboratory - Iot alarm clock</br>
 Thanks for the efforts of my dear teacher, Mr. Alireza bashiri mousavi
 
 ## Table of contents
@@ -11,12 +11,13 @@ Thanks for the efforts of my dear teacher, Mr. Alireza bashiri mousavi
 
 ## Arduino Uno
   This project includes the following 5 files :
- - Flowchart Files
- - Resuorce Files
- - Peripherals
- - Iot Control Panel
- - Iot Controls
-
+  <pre>
+    Flowchart Files
+    Resuorce Files
+    Peripherals
+    Iot Control Panel
+    Iot Controls
+  </pre>
 
 ## Schematic Capture
 <p align="center">
