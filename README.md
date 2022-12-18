@@ -1,6 +1,6 @@
 # Iot_Alarm_Clock
 Microprocessor laboratory - Iot alarm clock
-
+Thanks for the efforts of my dear teacher, Mr. Alireza bashiri mousavi
 
 ## Table of contents
  - [Arduino Uno](#arduino-uno)
