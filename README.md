@@ -19,3 +19,15 @@ Microprocessor laboratory - Iot alarm clock
 
 
 ## Schematic Capture
+<p align="center">
+<img img src="https://github.com/mahora00135/Iot_Alarm_Clock/blob/main/img/Schematic%20Capture.png" alt="Schematic Capture"/></a>
+
+
+## Visual Designer
+<p align="center">
+<img img src="https://github.com/mahora00135/Iot_Alarm_Clock/blob/main/img/Visual%20Designer.png" alt="Visual Designer"/></a>
+
+
+## Main Controls
+<p align="center">
+<img img src="https://github.com/mahora00135/Iot_Alarm_Clock/blob/main/img/Main%20Controls.png" alt="Main Controls"/></a>
